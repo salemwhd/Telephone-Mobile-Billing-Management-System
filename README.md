@@ -13,7 +13,7 @@ This project is a simple telephone management system implemented in C++ using My
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/telephone-management-system.git
+    git clone git@github.com:salemwhd/Telephone-Mobile-Billing-Management-System.git
     ```
 
 2. Navigate to the project directory:
